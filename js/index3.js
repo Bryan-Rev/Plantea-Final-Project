@@ -1,0 +1,1 @@
+setTimeout("location.href = 'index4.html';",800);
